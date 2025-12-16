@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of sunghoon、",
+  "description": "A romantic, aesthetic chat application designed for couples, powered by Gemini to simulate a loving partner.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
